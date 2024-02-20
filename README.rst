@@ -1,13 +1,7 @@
-Title
+Account move bypass unbalanced check import
 ===============================
-Description
 
-Configuration
-=============
-
-Usage
-=====
-Descriprion usage
+Modulo per bypassare controllo bilanciamento nell'import righe contabili
 
 
 Credits
@@ -21,4 +15,4 @@ Authors
 Contributors
 ~~~~~~~~~~~~
 
-* Moccia Francesco <moccia.f@stesi.eu>
+* Michele <dicroce.m@stesi.eu>
