@@ -1,4 +1,3 @@
-import_file
 
 
 from odoo import fields, models, api, _
